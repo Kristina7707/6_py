@@ -19,3 +19,4 @@ print(data)
 print(f'Уникальные элементы: {list(set(data))}' )
 print(f'Неповторяюющиеся элементы: {non_reps}' )
 print(f'Повторяюющиеся элементы: {reps}' )
+
